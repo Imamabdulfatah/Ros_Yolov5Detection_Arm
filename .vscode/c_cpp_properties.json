@@ -1,0 +1,43 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/jetson/software/laser_app/devel/include/**",
+        "/home/jetson/software/rtabmap_ws/devel/include/**",
+        "/home/jetson/software/carto_ws/install_isolated/include/**",
+        "/home/jetson/software/ar_track_ws/devel/include/**",
+        "/home/jetson/yahboomcar_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/jetson/software/library_ws/devel/include/**",
+        "/home/jetson/software/ar_track_ws/src/ar_track_alvar/ar_track_alvar/include/**",
+        "/home/jetson/software/library_ws/src/imu_calib/include/**",
+        "/home/jetson/software/laser_app/src/laser_geometry/include/**",
+        "/home/jetson/software/laser_app/src/laserscan_to_point_publish/include/**",
+        "/home/jetson/software/library_ws/src/orbbec-ros-sdk/include/**",
+        "/home/jetson/software/library_ws/src/rrt_exploration/include/**",
+        "/home/jetson/software/rtabmap_ws/src/rtabmap_ros/rtabmap_conversions/include/**",
+        "/home/jetson/software/rtabmap_ws/src/rtabmap_ros/rtabmap_costmap_plugins/include/**",
+        "/home/jetson/software/rtabmap_ws/src/rtabmap_ros/rtabmap_odom/include/**",
+        "/home/jetson/software/rtabmap_ws/src/rtabmap_ros/rtabmap_rviz_plugins/include/**",
+        "/home/jetson/software/rtabmap_ws/src/rtabmap_ros/rtabmap_slam/include/**",
+        "/home/jetson/software/rtabmap_ws/src/rtabmap_ros/rtabmap_sync/include/**",
+        "/home/jetson/software/rtabmap_ws/src/rtabmap_ros/rtabmap_util/include/**",
+        "/home/jetson/software/rtabmap_ws/src/rtabmap_ros/rtabmap_viz/include/**",
+        "/home/jetson/yahboomcar_ws/src/yahboomcar_astra/include/**",
+        "/home/jetson/yahboomcar_ws/src/yahboomcar_bringup/include/**",
+        "/home/jetson/yahboomcar_ws/src/yahboomcar_slam/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-arm64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

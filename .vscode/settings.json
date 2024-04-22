@@ -1,0 +1,20 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/jetson/software/laser_app/devel/lib/python3/dist-packages",
+        "/home/jetson/software/rtabmap_ws/devel/lib/python3/dist-packages",
+        "/home/jetson/software/carto_ws/install_isolated/lib/python3/dist-packages",
+        "/home/jetson/software/library_ws/devel/lib/python3/dist-packages",
+        "/home/jetson/software/ar_track_ws/devel/lib/python3/dist-packages",
+        "/home/jetson/yahboomcar_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/jetson/software/laser_app/devel/lib/python3/dist-packages",
+        "/home/jetson/software/rtabmap_ws/devel/lib/python3/dist-packages",
+        "/home/jetson/software/carto_ws/install_isolated/lib/python3/dist-packages",
+        "/home/jetson/software/library_ws/devel/lib/python3/dist-packages",
+        "/home/jetson/software/ar_track_ws/devel/lib/python3/dist-packages",
+        "/home/jetson/yahboomcar_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ]
+}
